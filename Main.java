@@ -57,7 +57,7 @@ public class Main {
 	        System.out.println("5. Delete Expense");
 	        System.out.println("6. Exit");
 	        
-	        // Bulletproof choice input:
+
 	        int choice = readInt(sc, "Enter choice: ");
 	        
 	        switch(choice) {
